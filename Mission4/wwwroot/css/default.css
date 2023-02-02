@@ -1,0 +1,14 @@
+﻿body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkgray;
+    text-align: center;
+}
+
+h1, h2, h3 {
+    color: black;
+}
+
+#picMe {
+    width: 500px;
+    height: 600px;
+}
